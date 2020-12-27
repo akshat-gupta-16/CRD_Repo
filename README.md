@@ -1,2 +1,3 @@
 # CRD_Repo
-This is a file-based key-value data store which can be exposed as a library that supports the basic CRD(create, read, write) operations.
+
+![c_r_d](https://user-images.githubusercontent.com/53647645/103174511-c30b9380-4888-11eb-97c4-60fa86e34ca7.PNG)
